@@ -3,9 +3,6 @@
 ## Sobre o projeto
 
 Este projeto foi desenvolvido por **Miguel Rodrigues Cavalcante** como parte da disciplina **Programação de Software Básico em C**. Embora a matéria seja focada em linguagem C, decidi realizar este trabalho de forma independente, utilizando **Python** e o framework **Flask**, para aprofundar meus conhecimentos em desenvolvimento web e back-end.
-# Calculadora Web em Python
-
-Uma calculadora simples acessível via navegador, desenvolvida com Python e Flask.
 
 ---
 
